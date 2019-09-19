@@ -3,7 +3,7 @@ import random
 
 class WeaponFactory(object):
     def get_random_weapon(self):
-        # returns a random weapons
+        # returns a random weapons 2
         pass
 
 

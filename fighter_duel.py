@@ -8,7 +8,7 @@ def welcome_fighter_to_arena(fighter):
 
 """
 
-ff = fighter.FighterFactory()
+ff = fighter.FighterFactory()n
 fighter_1 = ff.get_random_fighter()
 
 while 1:

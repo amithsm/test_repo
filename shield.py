@@ -3,8 +3,7 @@ import random
 
 class Shieldactory(object):
     def get_random_shield(self):
-        # returns a random shield
-        pass
+        rand = random.randint(0, 6)
 
 
 class Shield(object):

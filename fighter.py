@@ -8,7 +8,7 @@ class FighterFactory(object):
         self.names = "Squire Artur,Admiral Anselmus,Earl Rotgerius,Lady Ariana,Countess Ninette,Empress Mariel".split(",")
 
     def get_random_fighter(self):
-        # returns random fighter with random name, random weapon and random shield
+        # returns random fighter with random name, random weapon and random shields
         pass
 
 class Fighter(object):
