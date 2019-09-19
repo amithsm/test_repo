@@ -8,6 +8,7 @@ class Shieldactory(object):
 
 class Shield(object):
     def __init__(self, name, power):
+        #work#
         pass
 
     def block(self):
